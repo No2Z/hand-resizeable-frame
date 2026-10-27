@@ -4,6 +4,11 @@
 
 ---
 
+## 🎬 Demo Ứng Dụng
+![Demo AR Interactive Frame](demo.gif)
+
+---
+
 ## 🛠️ Cấu trúc dự án
 - `main.py`: Mã nguồn chính của ứng dụng.
 - `hand_landmarker.task`: Mô hình nhận diện bàn tay MediaPipe.
